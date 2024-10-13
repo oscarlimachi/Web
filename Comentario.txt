@@ -1,0 +1,1 @@
+Hola, no he podido ejecutar el index.html en github estando dentro de la carpeta web por lo que lo he dejado fuera de la carpeta web para que lo leyera. El script build.sh deja un index.html dentro de la carpeta web. He modificado los enlaces para que funcionaran en github.
